@@ -19,7 +19,7 @@
 **MORE INFORMATION:** Manual test performed on Ubuntu 22.04.2 LTS and Google Chome Version 114.0.5735.198 version 1.1 of the application<br>
 **EVIDENCE:** Failure of scenario S002 
 
-![Fake image evidence](/evidence.png)
+![Fake image evidence](/img/evidence.png)
 
 **STATUS:** Opened <br>
 
