@@ -20,4 +20,4 @@ Challenge for QA
 
 ## Pratical challenge - SOAP
 
-I can't execult this challenge because the SOAP aplications was not disponible.
+I can't execult this challenge because the SOAP aplication was not disponible.
