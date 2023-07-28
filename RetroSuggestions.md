@@ -1,4 +1,4 @@
-### Team retrospective suggestions
+## Team retrospective suggestions
 
 1. We can try acceptance test driven development cycle (ATDD), using Decision Tables to detail business rules and Gherkin to detail the acceptance criteria for turn tasks more clear.
 
